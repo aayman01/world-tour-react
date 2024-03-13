@@ -6,6 +6,11 @@
     font-size: larger;
     font-weight: 500;
 }
+.country-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4px;
+}
 .visited{
     background-color: skyblue;
 }
