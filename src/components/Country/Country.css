@@ -3,4 +3,13 @@
     margin: 15px;
     border-radius: 15px;
     padding: 10px;
+    font-size: larger;
+    font-weight: 500;
+}
+.visited{
+    background-color: skyblue;
+}
+.non-visited{
+    background-color: bisque;
+    color: black;
 }
